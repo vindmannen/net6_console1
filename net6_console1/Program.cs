@@ -5,7 +5,7 @@ var regions = new Dictionary<string, string>(){
                         {"Västerbotten", "Umeå, Sorsele, Vilhelmina,Åsele,Dorotea"},
                         {"Jämtland", "Östersund, Ragunda"},
                         {"Västernorrland","Härnösand, Kramfors, Sollefteå, Ånge" },
-                        {"Stockholm","Stockholm, Solna, Sundbyberg, Huddinge, Norrtälje" },
+                        {"Stockholm","Stockholm, Solna, Sundbyberg, Huddinge, Norrtälje, Södertälje" },
                         {"Gotland","Gotland"},
                         {"Västra Götaland", "Göteborg, Alingsås, Borås, Dals-Ed, Tranemo, Öckerö, Gullspång"},
                         {"Blekinge","Karlskrona, Karlshamn, Ronneby"}
