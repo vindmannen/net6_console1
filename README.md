@@ -3,3 +3,5 @@
 
 Using Dictionary object to serialize and post to endpoint with minimal API
 
+Visual Studio 2022 / .NET 6
+
